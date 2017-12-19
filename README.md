@@ -8,3 +8,9 @@ eureka-consumer 消费者服务
 eureka-provider 生产者服务
 
 gateway   统一网关服务
+
+turbine-server 聚合监控服务
+
+zipkin-server 基本链路分析服务
+
+zipkin-stream-server 基于RabbitMQ、Elasticsearch的链路分析服务
